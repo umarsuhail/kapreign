@@ -99,15 +99,16 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Corperate IT websites
+                  Mobile/Web Applications
                 </div>
-                <h3 className="mt-0 mb-12">Add Smartness to your Business</h3>
+                <h3 className="mt-0 mb-12">You think it, we'll build it.</h3>
                 <p className="m-0">
-                  We design and develop high quality websites for any business
-                  organisations. We've a best team to design and develop with
-                  latest technologies, and our continous learning allows us to
-                  deliver the websites that can drive the result for your
-                  business needs.
+                  We all have great ideas in our mind. but it doesn't matter
+                  unless we put some action on it. from the beginning you'll
+                  need a stunning design, and someone to implement your ideas.
+                  in kapreign we have a great team of engineers to design, build
+                  your ideas in any platform, like Android, IOS, Web and smart
+                  devices.
                 </p>
               </div>
               <div
@@ -118,7 +119,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/kapnmob3.jpg")}
+                  src={require("./../../assets/images/kapnmob2.jpg")}
                   alt="Features split 01"
                   width={528}
                   height={396}
@@ -132,15 +133,18 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Corperate IT websites
+                  Digital marketing
                 </div>
-                <h3 className="mt-0 mb-12">Add Smartness to your Business</h3>
+                <h3 className="mt-0 mb-12">
+                  Need architects for your Brand? Check this out
+                </h3>
                 <p className="m-0">
-                  We design and develop high quality websites for any business
-                  organisations. We've a best team to design and develop with
-                  latest technologies, and our continous learning allows us to
-                  deliver the websites that can drive the result for your
-                  business needs.
+                  It's never late when you want to go digital. you'll have a
+                  great product, people will always use it. and when the demand
+                  is high, you'll also have some competitors in market. in this
+                  digital world to stand out from your competitors you'll need
+                  some marketing support. we'll plan and design suitable
+                  strategy for your business to keep the busyness.
                 </p>
               </div>
               <div
@@ -151,7 +155,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/kapnmob3.jpg")}
+                  src={require("./../../assets/images/dig-marketing.jpg")}
                   alt="Features split 01"
                   width={528}
                   height={396}
