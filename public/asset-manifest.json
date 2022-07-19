@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f61c3e07.chunk.css",
+    "main.js": "/static/js/main.eb75614c.chunk.js",
+    "main.js.map": "/static/js/main.eb75614c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
+    "static/js/2.2d016ddc.chunk.js": "/static/js/2.2d016ddc.chunk.js",
+    "static/js/2.2d016ddc.chunk.js.map": "/static/js/2.2d016ddc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ca05ab37d94dca4011378d8e8f117714.js": "/precache-manifest.ca05ab37d94dca4011378d8e8f117714.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f61c3e07.chunk.css.map": "/static/css/main.f61c3e07.chunk.css.map",
+    "static/js/2.2d016ddc.chunk.js.LICENSE.txt": "/static/js/2.2d016ddc.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/dig-marketing.jpg": "/static/media/dig-marketing.90ccad73.jpg",
+    "static/media/kap-logo.png": "/static/media/kap-logo.1fced3cc.png",
+    "static/media/kapnmob2.jpg": "/static/media/kapnmob2.730ee958.jpg",
+    "static/media/kapnmob3.jpg": "/static/media/kapnmob3.376a3d9a.jpg",
+    "static/media/video-thump.jpg": "/static/media/video-thump.5dd12869.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8b9f84b.js",
+    "static/js/2.2d016ddc.chunk.js",
+    "static/css/main.f61c3e07.chunk.css",
+    "static/js/main.eb75614c.chunk.js"
+  ]
+}
