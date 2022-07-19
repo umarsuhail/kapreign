@@ -49,7 +49,7 @@ const Cta = ({
           <p>
             Technical incubation cell, SNGIST, Paravur, Manjaly, Kerala 683520
           </p>
-          <p>Phone : 8592973800, 9497656243</p>
+          <p>Phone :+91 8592973800</p>
         </div>
       </div>
     </section>
