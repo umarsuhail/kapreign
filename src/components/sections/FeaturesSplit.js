@@ -162,6 +162,50 @@ const FeaturesSplit = ({
                 />
               </div>
             </div>
+            <div className="split-item">
+              <div
+                className="split-item-content center-content-mobile reveal-from-left"
+                data-reveal-container=".split-item"
+              >
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  Business process outsourcing
+                </div>
+                <h3 className="mt-0 mb-12">
+                  Struggling with your business non-core functions? well, meet
+                  kapreign.
+                </h3>
+                <p className="m-0">
+                  <b>To decrease costs:</b> Outsourcing cuts down on costs for
+                  in-house labor, particularly for staffing and training, and
+                  for the work space to accommodate local employees.
+                  <br />
+                  <br />
+                  <b>To concentrate on key functions:</b> Outsourcing allows
+                  businesses to hone in on their main offerings instead of
+                  company functions that aren’t directly tied to their core
+                  processes.
+                  <br />
+                  <br />
+                  <b>To achieve better results in noncore functions: </b>
+                  Those delivering world-class capabilities for its clients may
+                  need the support in noncore functionalities.
+                </p>
+              </div>
+              <div
+                className={classNames(
+                  "split-item-image center-content-mobile reveal-from-bottom",
+                  imageFill && "split-item-image-fill"
+                )}
+                data-reveal-container=".split-item"
+              >
+                <Image
+                  src={require("./../../assets/images/bpo.webp")}
+                  alt="Features split 01"
+                  width={528}
+                  height={396}
+                />
+              </div>
+            </div>
           </div>
         </div>
       </div>
