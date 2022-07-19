@@ -67,7 +67,7 @@ const Testimonial = ({
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Powerpod</a>
+                    <a href="#0">Riod.in</a>
                   </span>
                 </div>
               </div>
